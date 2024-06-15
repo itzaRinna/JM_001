@@ -1,4 +1,4 @@
-# Javascript Mastery Project
+# Javascript Mastery Project -[ Outdated ]
 
 Welcome to the Javascript Mastery project! This project is designed to help you enhance your JavaScript skills through practical application.
 
