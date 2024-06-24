@@ -1,4 +1,4 @@
-const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
+export const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
     const handleClick = () => {
         if (bigShoeImg !== imgURL.bigShoe) {
             changeBigShoeImage(imgURL.bigShoe);
@@ -19,5 +19,3 @@ const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
         </div>
     );
 };
-
-export default ShoeCard;
