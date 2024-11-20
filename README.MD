@@ -19,7 +19,7 @@ The goal of this project is to master JavaScript by working with various feature
 
 - **NodeJS**
 - **React**
-- **Vite**
+- **NextJS**
 - **TypeScript**
 - **JavaScript (ES6+)**
 - **HTML/CSS** for frontend development
