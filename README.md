@@ -32,13 +32,13 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/itzaRinna/JM_001.git
+   git clone https://github.com/itzaRinna/JM_002.git
    ```
 
 2. **Navigate to the source folder:**
    Move into the project directory where the source code resides:
    ```bash
-   cd JM_001/source
+   cd JM_002/source
    ```
 
 3. **Install the dependencies:**
