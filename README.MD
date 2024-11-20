@@ -59,16 +59,38 @@ This command will:
 The project has the following structure:
 
 ```
-JM_002/
-├── source/                  
-│   ├── assets/              
-│   ├── components/          
-│   ├── js/                  
-│   ├── css/                 
-│   └── index.html           
-├── package.json             
-├── webpack.config.js        
-└── README.md                
+project-root/
+│
+├── source/                # Source files for core logic or custom code
+│
+├── app/                   # Main application files
+│   ├── head.js            # Head component for managing HTML head tags (e.g., title, meta tags)
+│   ├── layout.js          # Layout component for the overall page structure
+│   ├── page.js            # Page-specific logic or structure
+│
+├── components/            # Reusable UI components
+│   ├── CustomTexts.jsx    # Custom text components
+│   ├── ExploreCard.jsx    # Explore card component
+│   ├── Footer.jsx         # Footer component
+│   ├── InsightCard.jsx    # Insight card component
+│   ├── Navbar.jsx         # Navigation bar component
+│   ├── NewFeatures.jsx    # New features section/component
+│   ├── StartSteps.jsx     # Steps to start section/component
+│
+├── index.js               # Entry point of the app or main app logic
+│
+├── constants/             # Constants like API endpoints, configuration, etc.
+│
+├── pages/                 # Pages for the application (Next.js structure or static routing)
+│   ├── api/               # API routes for server-side functionality
+│
+├── public/                # Static assets like images, fonts, etc.
+│
+├── sections/              # Large sections or page blocks (e.g., Hero, Features, Testimonials)
+│
+├── styles/                # Global and component-specific CSS or SCSS
+│
+└── utils/                 # Utility functions and helpers (e.g., date formatting, API calls)               
 ```
 
 You can customize or expand the file structure based on your needs.
