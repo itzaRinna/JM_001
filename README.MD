@@ -8,8 +8,7 @@ The goal of this project is to master JavaScript by working with various feature
 
 - [Technologies](#technologies_used)
 - [Installation](#installation)
--- [StartDev](#startdev)
--- [ProjectStructure](#projectStructure)
+- [ProjectStructure](#file_structure)
 - [Development](#development)
 - [Usage](#usage)
 - [Contributing](#contributing)
