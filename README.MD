@@ -1,13 +1,15 @@
 # JavaScript Mastery Project - [Outdated]
 
-Welcome to my **JavaScript Mastery Project**! This project is designed to help you improve your JavaScript skills through hands-on practice, building real-world applications, and learning best practices.
+Welcome to the source code to one of **JavaScript Mastery Projects**! This repo is designed to help you improve your JavaScript skills through hands-on practice, building real-world applications, and learning best practices.
 
 The goal of this project is to master JavaScript by working with various features of the language, integrating libraries, and applying modern tools and frameworks.
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Technologies](#technologies_used)
 - [Installation](#installation)
+-- [StartDev](#startdev)
+-- [ProjectStructure](#projectStructure)
 - [Development](#development)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -16,6 +18,10 @@ The goal of this project is to master JavaScript by working with various feature
 
 ### Technologies Used:
 
+- **NodeJS**
+- **React**
+- **Vite**
+- **TypeScript**
 - **JavaScript (ES6+)**
 - **HTML/CSS** for frontend development
 - **Git** for version control
@@ -27,13 +33,13 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/itzaRinna/JM_002.git
+   git clone https://github.com/itzaRinna/JM_001.git
    ```
 
 2. **Navigate to the source folder:**
    Move into the project directory where the source code resides:
    ```bash
-   cd JM_002/source
+   cd JM_001/source
    ```
 
 3. **Install the dependencies:**
@@ -52,7 +58,7 @@ npm run dev
 
 This command will:
 
-- Start a local development server (usually at `http://localhost:3000`).
+- Start a local development server (usually at `http://localhost:3000` or at `http://localhost:5000`).
 - Enable hot reloading, so any changes you make to the source files will automatically refresh the browser.
 
 ### File Structure:
