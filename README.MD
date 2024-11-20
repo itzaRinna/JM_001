@@ -1,4 +1,4 @@
-# JavaScript Mastery Project - [Outdated]
+# JavaScript Mastery Project
 
 Welcome to the source code to one of **JavaScript Mastery Projects**! This repo is designed to help you improve your JavaScript skills through hands-on practice, building real-world applications, and learning best practices.
 
