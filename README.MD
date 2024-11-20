@@ -60,7 +60,7 @@ This command will:
 - Start a local development server (usually at `http://localhost:3000` or at `http://localhost:5000`).
 - Enable hot reloading, so any changes you make to the source files will automatically refresh the browser.
 
-### File Structure:
+## File Structure:
 The project has the following structure:
 
 ```
