@@ -1,7 +1,3 @@
-Absolutely! Below is the updated version of the `README.md`, removing the references to Node.js as a backend, and focusing purely on the frontend JavaScript project:
-
----
-
 # JavaScript Mastery Project - [Outdated]
 
 Welcome to my **JavaScript Mastery Project**! This project is designed to help you improve your JavaScript skills through hands-on practice, building real-world applications, and learning best practices.
@@ -17,19 +13,6 @@ The goal of this project is to master JavaScript by working with various feature
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Overview
-
-This project covers a wide range of topics that include:
-
-- Core JavaScript concepts (variables, loops, functions, objects, etc.)
-- DOM manipulation
-- Asynchronous JavaScript (Promises, Async/Await)
-- Error handling
-- Working with APIs
-- Data manipulation
-- Testing and debugging
-
-Additionally, the project is structured to encourage a clean and modular codebase, using best practices like version control, component-based architecture, and code linting.
 
 ### Technologies Used:
 
