@@ -36,25 +36,25 @@ Your README markdown looks pretty good overall, but I'll make a few adjustments 
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository:
+1.__Clone the repository__:
    Clone this repository to your local machine using the following command:
-      git clone https://github.com/itzaRinna/JM_002.git
+      `git clone https://github.com/itzaRinna/JM_001.git`
    
 
-2. **Navigate to the source folder:
+2.__Navigate to the source folder__:
    Move into the project directory where the source code resides:
-      cd JM_002/source
+      `cd JM_001/source`
 
-3. **Install the dependencies:
+3.__Install the dependencies__:
    Run the following command to install the required dependencies:
-      npm install
+      `npm install`
    
    This will install the necessary packages listed in the `package.json` file.
 
 ## Development
 
 To start the development environment, run the following command:
-      npm run dev
+      `npm run dev`
 
 
 This command will:
@@ -130,7 +130,7 @@ I welcome contributions to this project! If you'd like to contribute, follow the
 1. **Fork the repository:**
    First, fork the repository to your GitHub account:
    ```bash
-   git fork https://github.com/itzaRinna/JM_002.git
+   git fork https://github.com/itzaRinna/JM_001.git
    ```
 
 2. **Create a new branch:**
