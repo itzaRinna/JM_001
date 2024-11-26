@@ -25,6 +25,9 @@ The goal of this project is to master JavaScript by working with various feature
 - **HTML/CSS** for frontend development
 - **Git** for version control
 
+
+
+```markdown
 ## Installation
 
 To get started with the project, follow these steps:
@@ -92,6 +95,7 @@ src/
 ├── main.tsx
                
 ```
+
 
 You can customize or expand the file structure based on your needs.
 
