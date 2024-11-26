@@ -36,16 +36,15 @@ Your README markdown looks pretty good overall, but I'll make a few adjustments 
 
 To get started with the project, follow these steps:
 
-1.__Clone the repository__:
+__Clone the repository__
    Clone this repository to your local machine using the following command:
       `git clone https://github.com/itzaRinna/JM_001.git`
    
-
-2.__Navigate to the source folder__:
+__Navigate to the source folder__
    Move into the project directory where the source code resides:
       `cd JM_001/source`
 
-3.__Install the dependencies__:
+__Install the dependencies__
    Run the following command to install the required dependencies:
       `npm install`
    
