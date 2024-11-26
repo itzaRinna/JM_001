@@ -36,29 +36,25 @@ Your README markdown looks pretty good overall, but I'll make a few adjustments 
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the repository:
    Clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/itzaRinna/JM_002.git
+      git clone https://github.com/itzaRinna/JM_002.git
    
 
-2. **Navigate to the source folder:**
+2. **Navigate to the source folder:
    Move into the project directory where the source code resides:
-   ```bash
-   cd JM_002/source
+      cd JM_002/source
 
-3. **Install the dependencies:**
+3. **Install the dependencies:
    Run the following command to install the required dependencies:
-   ```bash
-   npm install
+      npm install
    
    This will install the necessary packages listed in the `package.json` file.
 
 ## Development
 
 To start the development environment, run the following command:
-```bash
-npm run dev
+      npm run dev
 
 
 This command will:
